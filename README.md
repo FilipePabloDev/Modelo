@@ -19,4 +19,15 @@
         -/test -> A pasta é indicada para colocar os testes unitários
         -/public -> A pasta é indicada pra colocar o Front-End ou qualquer arquivo que precisa ficar á nível Público. A nível de API,teriamos os ENDPOINTs (Rotas de acesso)
         -/config -> (ou scripts) arquivos de configuração ou instalação de bibliotecas do projeto (isso também pode ficar na raiz do projeto)
-        -/docs -> A pasta é indicada para guardar imagens ou docs relacionados ao projeto. Por exemplo: Diagramas, Fluxogramas, Mapa Mentais, Canvas
+        -/docs -> A pasta é indicada para guardar imagens ou docs relacionados ao projeto. Por exemplo: Diagramas, Fluxogramas, Mapa Mentais, Canvas e etc.
+
+
+## Utilizar boas práticas em Commits
+    - Commit Atômicos: Realizar commits pequenos -> a unidade de trabalho
+
+    - Commit Semântico: É informar com sufixo e em poucas palavras o que foi realizado nessa unidade de trabalho
+
+
+# Na raiz do Projeto
+
+    -
