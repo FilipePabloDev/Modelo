@@ -39,8 +39,16 @@
 ## Gerenciar Branchs
     - um projeto pode ter algumas dessas branchs abaixo:
     
-    - main (ou master): Versão estável do projeto ( ou aquilo que o público está utilizando no momento)
+    - main (ou master): 
 
+        - Versão estável do projeto ( ou aquilo que o público está utilizando no momento)
+        - Normalmente a main é atualizada no final de cada sprint, recebe tudo que foi realizada na homolog(foi testado e aprovado)
+        - no final é meclado tudo para a main
+
+    - Flow das Branchs:
+
+        - branch-de-trabalho -> develop -> homolog -> main
+        
     - develop: 
 
         -Versão em desenvolvimento, normalmente é utilizado por Desenvolvedores do projeto. 
@@ -57,6 +65,4 @@
 
         - Versão posterior a de desenvolvimento, ou seja é a de testes. Normalmente ela antecipa a main
 
-    - Flow das Branchs:
-
-        - branch-de-trabalho -> develop -> homolog -> main
+    
